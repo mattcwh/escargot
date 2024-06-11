@@ -1,5 +1,5 @@
 # Data files #
 ###################
-*.txt
-*.csv
-*.tsv
+data/*.txt
+data/*.csv
+data/*.tsv
