@@ -1,4 +1,5 @@
 # escargot/results/visualization.py
+import pandas as pd
 import matplotlib.pyplot as plt
 
 def plot_enrichment_scores(enrichment_scores: pd.DataFrame):
